@@ -24,7 +24,7 @@ function Navigation() {
         </a>
       </li>
       <li className="nav-li">
-        <a className="nav-link" href="/assets/Resume.pdf">
+        <a className="nav-link" target="_blank" href="/assets/Resume.pdf">
           CV
         </a>
       </li>
