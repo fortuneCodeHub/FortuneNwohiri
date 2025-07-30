@@ -6,12 +6,12 @@ import Footer from "../sections/Footer";
 
 const Works = () => {
   return (
-    <div className="container mx-auto max-w-7xl">
-      <Navbar />
-      <div className="my-30">
-        <AllProjects />
-      </div>
-      <Footer />
+    <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 overflow-x-hidden">
+        <Navbar />
+        <div className="my-12">
+            <AllProjects />
+        </div>
+        <Footer />
     </div>
   );
 };
