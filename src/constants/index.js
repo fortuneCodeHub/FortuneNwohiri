@@ -1,0 +1,850 @@
+export const myProjects = [
+  {
+    id: 1,
+    title: "FortuneCodeHub Second folio",
+    description: "My second portfolio site showcasing earlier works.",
+    subDescription: [
+      "Multiple pages portfolio layout.",
+      "Used standard frontend tools to showcase projects.",
+    ],
+    href: "https://fortune-code-hub-react-1.vercel.app/",
+    github: "https://github.com/fortuneCodeHub/fortuneCodeHub-react-1",
+    logo: "",
+    image: "/assets/projects/portfolio-2.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 4, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 5, name: "React", path: "/assets/logos/react.svg" },
+    ],
+  },
+  {
+    id: 2,
+    title: "LocIq",
+    description: "LocIq is an AI-powered real estate marketing platform that helps property sellers generate high-converting Google Ads campaigns for individual listings—automatically and at scale. I built this with a team of frontend and backend devs, i worked on both frontend and backend, signed an NDA so i cannot share the github url.",
+    subDescription: [
+      "With LocIq, property managers and real estate agents can instantly turn their property data into ready-to-run ad campaigns, complete with tailored headlines, keywords, and landing pages. No manual ad setup, no guesswork—just intelligent automation that drives real estate visibility and sales.",
+    ],
+    href: "https://www.lociq.nl/en",
+    github: "",
+    logo: "",
+    image: "/assets/projects/lociq.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 4, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 5, name: "Laravel", path: "/assets/logos/laravel-img.png" },
+      { id: 6, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 3,
+    title: "Vikmid",
+    description: "This is a tool for popular influencers and content creators to sell their products and also sell their courses, it's just like selar.com but this is different because we plan on adding a lottery system where influencers can do giveaway to their fans. I cannot share the github url, also signed an NDA.",
+    subDescription: [
+      "Sell products, launch courses, and run giveaways — all in one tool made for influencers.",
+      "Like Selar, but with a twist: sell, teach, and reward your fans with lotteries.",
+    ],
+    href: "https://www.vikmid.com/signup",
+    github: "",
+    logo: "",
+    image: "/assets/projects/vikmid.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 4, name: "Nest Js", path: "/assets/logos/nestjs.svg" },
+      { id: 5, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 6, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 4,
+    title: "TadhamOnFinance",
+    description: "This is an investment platform where you can invest and get your profits after your investment timeframe is completed. I cannot also share the github url.",
+    subDescription: [
+      "It's an investment platform and i built it alone too.",
+    ],
+    href: "https://www.tadhamonfinance.com/",
+    github: "",
+    logo: "",
+    image: "/assets/projects/tadham.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 4, name: "PHP", path: "/assets/logos/php.svg" },
+    ],
+  },
+  {
+    id: 5,
+    title: "Summoner",
+    description: "Summoner — Where Autonomous Agents Power Economic Coordination.",
+    subDescription: [
+      "Summoner is a next-gen platform that lets AI agents build trust through performance, coordinate across silos, and engage in real economic transactions. It introduces a decentralized infrastructure for agent collaboration, reputation, and micropayments.",
+      "I built the landing page only, using Next.js, to showcase its mission, features, ecosystem, and real-world use cases. I cannot share the gitHub Url",
+    ],
+    href: "https://summoner.org/",
+    github: "https://github.com/orgs/Summoner-Network/repositories",
+    logo: "",
+    image: "/assets/projects/summoner.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 4, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 6,
+    title: "XIO.AI",
+    description: "XIO — One App to Trade Everything, Smarter and Faster",
+    subDescription: [
+      "XIO is a next-gen trading platform that connects users to 5,000+ DeFi and CEX assets through a single interface, powered by AI insights, customizable alerts, and self-custody wallets.",
+      "I collaborated with my friend in building the landing page using, focusing on speed, clarity, and responsiveness to match the product’s advanced fintech experience. I cannot share the gitHub Url because of NDA.",
+    ],
+    href: "https://www.xio.ai/",
+    github: "",
+    logo: "",
+    image: "/assets/projects/xio.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 4, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 7,
+    title: "Shellz🐢",
+    description: "Shellz🐢 — Your Crypto Spirit Animal",
+    subDescription: [
+      "Shellz blends NFTs, storytelling, and community into a Web3 universe powered by humor, culture, and a turtle-paced philosophy. From comics to tokens, it’s more than a meme—it’s a movement.",
+      "I built this for free for an upcoming web3 project on the uprising, soon to launch it's own presale for it's native token. The gitHub repo is private so you might not be able to access the repo.",
+    ],
+    href: "https://shellz.vercel.app/",
+    github: "https://github.com/fortuneCodeHub/Shellz",
+    logo: "",
+    image: "/assets/projects/shellz.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 4, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 8,
+    title: "ZOKE",
+    description: "ZOKE — Web3 Twitter Ambassador Website",
+    subDescription: [
+      "I built this website for free for Zoke, a crypto influencer and Web3 ambassador with over 35.5k followers on X. It showcases his impact, campaign history, and branding in a sleek, responsive layout designed to attract partnerships and amplify his reach.",
+    ],
+    href: "https://zoke-six.vercel.app/",
+    github: "https://github.com/fortuneCodeHub/Zoke",
+    logo: "",
+    image: "/assets/projects/zoke.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 4, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 9,
+    title: "Taskive",
+    description: "Taskive — Smarter Task Management for Teams",
+    subDescription: [
+      "Taskive helps teams plan, track, and collaborate with ease. From real-time updates to custom workflows, it's the all-in-one workspace for faster, clearer execution.",
+      "I built this landing page for an upcoming task management system my friend is building."
+    ],
+    href: "https://fortunecodehub.github.io/Taskive/",
+    github: "https://github.com/fortuneCodeHub/Taskive",
+    logo: "",
+    image: "/assets/projects/taskive.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 10,
+    title: "Safu-DeFi",
+    description: "SAFU DeFi — Web3 Community Growth & Engagement",
+    subDescription: [
+      "This is my community moderator portfolio, showcasing how I help Web3 projects grow through active engagement, moderation, and strategic support. From Telegram bots to NFT hype, I bring structure and energy to crypto communities."
+    ],
+    href: "https://fortunecodehub.github.io/Safu-DeFi/",
+    github: "https://github.com/fortuneCodeHub/Safu-DeFi",
+    logo: "",
+    image: "/assets/projects/safu-defi.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 11,
+    title: "Barabilar",
+    description:
+      "This is an ecommerce store for cars that i built to simplify customer location to retailers or wholesalers products. So you can breakdown your search to the retailers products in your location and you can get to bid their product and get it at a good price. You can also post ads on the platform to get prescence of more customers. Build is still in progress, to be released soon...",
+    subDescription: [
+      "CRUD features with image upload and pagination.",
+      "Authentication & authorization using Laravel middleware.",
+      "Clean UI built with Tailwind CSS.",
+      "Geolocation to help get retailers and wholesalers near that location",
+    ],
+    href: "",
+    github: "https://github.com/fortuneCodeHub/Barabilar",
+    logo: "",
+    image: "/assets/projects/barabilar.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 5, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 6, name: "PHP", path: "/assets/logos/php.svg" },
+      { id: 7, name: "Laravel", path: "/assets/logos/laravel-img.png" },
+    ],
+  },
+  {
+    id: 12,
+    title: "TradesByBarter",
+    description:
+      "This is an ecommerce store i built with my friends. This brings products to you based on your location. You can also place ads on this platform too.",
+    subDescription: [
+      "CRUD features with image upload and pagination.",
+      "Authentication & authorization using Laravel middleware.",
+      "Clean UI built with Tailwind CSS.",
+      "Geolocation to help get retailers and wholesalers near that location",
+    ],
+    href: "https://tradesbybarter.com/",
+    github: "",
+    logo: "",
+    image: "/assets/projects/tradesbybarter.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 4, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+      { id: 5, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 6, name: "PHP", path: "/assets/logos/php.svg" },
+      { id: 7, name: "Laravel", path: "/assets/logos/laravel-img.png" },
+    ],
+  },
+];
+
+export const moreProjects = [
+  // Backend
+  {
+    id: 1,
+    title: "Mobile Shoppee",
+    description:
+      "This is my first ever php project, i built everything from front-end to back-end with my knowledge of php. The UI is pretty bad, Hahaha!!.",
+    subDescription: [
+      "This is my first ever php project, i built everything from front-end to back-end with my knowledge of php.",
+    ],
+    href: "",
+    github: "https://github.com/fortuneCodeHub/MobileShoppe",
+    logo: "",
+    image: "/assets/projects/mobile-shoppee.PNG",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 4, name: "JQuery", path: "/assets/logos/jquery.svg" },
+      { id: 5, name: "PHP", path: "/assets/logos/php.svg" },
+    ],
+  },
+  {
+    id: 2,
+    title: "Frames",
+    description:
+      "This is a PHP MVC Framework that i created from scratch, here i utilized all my PHP skills...",
+    subDescription: [
+      "Utilized OOP, composer autoloading, MVC framework structure.",
+      "Built a CLI tool called Frames.",
+      "Still building API support with token protection like Laravel Sanctum.",
+    ],
+    href: "",
+    github: "https://github.com/fortuneCodeHub/Frames",
+    logo: "",
+    image: "/assets/projects/frames.PNG",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 4, name: "PHP", path: "/assets/logos/php.svg" },
+    ],
+  },
+  {
+    id: 3,
+    title: "JJ-CODES",
+    description:
+      "This is a website that sells coding courses. It was built with AJAX and structured like an MVC system. It's currently under maintenance.",
+    subDescription: [
+      "Built with PHP and AJAX for asynchronous UX.",
+      "Structured as an MVC-style app using composer for class loading.",
+    ],
+    href: "https://jj-codes.pxxl.click/",
+    github: "https://github.com/fortuneCodeHub/JJ-CODES",
+    logo: "",
+    image: "/assets/projects/jj-codes.PNG",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 4, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 5, name: "PHP", path: "/assets/logos/php.svg" },
+      { id: 6, name: "AJAX", path: "/assets/logos/ajax.svg" },
+    ],
+  },
+  {
+    id: 4,
+    title: "Code GIGs",
+    description:
+      "This is my first project with Laravel. It has pagination, search, full CRUD and access control using middleware. It's currently under maintenance.",
+    subDescription: [
+      "CRUD features with image upload and pagination.",
+      "Authentication & authorization using Laravel middleware.",
+      "Clean UI built with Bootstrap.",
+    ],
+    href: "",
+    github: "https://github.com/fortuneCodeHub/CodeGIGs",
+    logo: "",
+    image: "/assets/projects/code-gigs.PNG",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 5, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 6, name: "PHP", path: "/assets/logos/php.svg" },
+      { id: 7, name: "Laravel", path: "/assets/logos/laravel-img.png" },
+    ],
+  },
+  // Repeat the same for the frontend projects as needed...
+  // Frontend
+  {
+    id: 5,
+    title: "Sokachin LTD",
+    description:
+      "This is my first design project, i created it with just the basic design skills. It's a website for a construction company.",
+    subDescription: [
+      "Static UI project built with Bootstrap.",
+      "Simple layout to represent a construction company.",
+    ],
+    href: "https://fortunecodehub.github.io/SokachinLtd-Design/",
+    github: "https://github.com/fortuneCodeHub/SokachinLtd-Design",
+    logo: "",
+    image: "/assets/projects/sokachin.PNG",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 4, name: "JQuery", path: "/assets/logos/jquery.svg" },
+    ],
+  },
+  {
+    id: 6,
+    title: "CodeBootcamp",
+    description:
+      "This is a one page website for buying and subscribing to free code bootcamps.",
+    subDescription: [
+      "Landing page with pricing and subscription UI.",
+      "Focused on user interaction through clean HTML/CSS layout.",
+    ],
+    href: "https://fortunecodehub.github.io/CodeBootcamp-Design/",
+    github: "https://github.com/fortuneCodeHub/CodeBootcamp-Design",
+    logo: "",
+    image: "/assets/projects/code-bootcamp.PNG",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 4, name: "Javascript", path: "/assets/logos/javascript.svg" },
+    ],
+  },
+  {
+    id: 7,
+    title: "Landing Page",
+    description:
+      "This is a one-page landing page for my company. Simple and clean, created to practice JS interactions.",
+    subDescription: [
+      "Focused on UI/UX simplicity and responsiveness.",
+      "Practiced core JS logic and interactivity.",
+    ],
+    href: "https://fortunecodehub.github.io/LandingPage-Design/",
+    github: "https://github.com/fortuneCodeHub/LandingPage-Design",
+    logo: "",
+    image: "/assets/projects/landing-page.PNG",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 4, name: "Javascript", path: "/assets/logos/javascript.svg" },
+    ],
+  },
+  {
+    id: 8,
+    title: "ProInvest",
+    description:
+      "This is a UI design for making investments based on user-selected plans.",
+    subDescription: [
+      "Static frontend for investment features.",
+      "Responsive layout for investment product categories.",
+    ],
+    href: "https://fortunecodehub.github.io/ProInvest-Design/",
+    github: "https://github.com/fortuneCodeHub/ProInvest-Design",
+    logo: "",
+    image: "/assets/projects/proinvest.PNG",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 4, name: "Javascript", path: "/assets/logos/javascript.svg" },
+    ],
+  },
+  {
+    id: 9,
+    title: "ADXpress",
+    description:
+      "An e-commerce website built from scratch using clean, untemplated code.",
+    subDescription: [
+      "Built UI and logic from the ground up.",
+      "Integrated product listing and shopping cart flow.",
+    ],
+    href: "https://fortunecodehub.github.io/ADXpress/",
+    github: "https://github.com/fortuneCodeHub/ADXpress",
+    logo: "",
+    image: "/assets/projects/adxpress.PNG",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 4, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+      { id: 5, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 6, name: "JQuery", path: "/assets/logos/jquery.svg" },
+    ],
+  },
+  {
+    id: 10,
+    title: "Verbo",
+    description:
+      "Social media app UI concept. Heavy use of Intersection Observer and scroll-based animation logic.",
+    subDescription: [
+      "Built advanced animations using JavaScript Intersection Observer.",
+      "Mimics dynamic effects without GSAP scrollTrigger.",
+    ],
+    href: "https://fortunecodehub.github.io/Verbo-Chat-Application/",
+    github: "https://github.com/fortuneCodeHub/Verbo-Chat-Application",
+    logo: "",
+    image: "/assets/projects/verbo.PNG",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 4, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+      { id: 5, name: "Javascript", path: "/assets/logos/javascript.svg" },
+    ],
+  },
+  {
+    id: 11,
+    title: "FortuneCodeHub First folio",
+    description: "My first portfolio site showcasing earlier works.",
+    subDescription: [
+      "Basic single-page portfolio layout.",
+      "Used standard frontend tools to showcase projects.",
+    ],
+    href: "https://fortunecodehub.github.io/fortuneCodeHub/",
+    github: "https://github.com/fortuneCodeHub/fortuneCodeHub",
+    logo: "",
+    image: "/assets/projects/portfolio1.PNG",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 4, name: "Javascript", path: "/assets/logos/javascript.svg" },
+    ],
+  },
+  {
+    id: 12,
+    title: "FortuneCodeHub Second folio",
+    description: "My second portfolio site showcasing earlier works.",
+    subDescription: [
+      "Multiple pages portfolio layout.",
+      "Used standard frontend tools to showcase projects.",
+    ],
+    href: "https://fortune-code-hub-react-1.vercel.app/",
+    github: "https://github.com/fortuneCodeHub/fortuneCodeHub-react-1",
+    logo: "",
+    image: "/assets/projects/portfolio-2.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 4, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 5, name: "React", path: "/assets/logos/react.svg" },
+    ],
+  },
+  {
+    id: 13,
+    title: "LocIq",
+    description: "LocIq is an AI-powered real estate marketing platform that helps property sellers generate high-converting Google Ads campaigns for individual listings—automatically and at scale. I built this with a team of frontend and backend devs, i worked on both frontend and backend, signed an NDA so i cannot share the github url.",
+    subDescription: [
+      "With LocIq, property managers and real estate agents can instantly turn their property data into ready-to-run ad campaigns, complete with tailored headlines, keywords, and landing pages. No manual ad setup, no guesswork—just intelligent automation that drives real estate visibility and sales.",
+    ],
+    href: "https://www.lociq.nl/en",
+    github: "",
+    logo: "",
+    image: "/assets/projects/lociq.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 4, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 5, name: "Laravel", path: "/assets/logos/laravel-img.png" },
+      { id: 6, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 14,
+    title: "Vikmid",
+    description: "This is a tool for popular influencers and content creators to sell their products and also sell their courses, it's just like selar.com but this is different because we plan on adding a lottery system where influencers can do giveaway to their fans. I cannot share the github url, also signed an NDA.",
+    subDescription: [
+      "Sell products, launch courses, and run giveaways — all in one tool made for influencers.",
+      "Like Selar, but with a twist: sell, teach, and reward your fans with lotteries.",
+    ],
+    href: "https://www.vikmid.com/signup",
+    github: "",
+    logo: "",
+    image: "/assets/projects/vikmid.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 4, name: "Nest Js", path: "/assets/logos/nestjs.svg" },
+      { id: 5, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 6, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 15,
+    title: "TadhamOnFinance",
+    description: "This is an investment platform where you can invest and get your profits after your investment timeframe is completed. I cannot also share the github url.",
+    subDescription: [
+      "It's an investment platform and i built it alone too.",
+    ],
+    href: "https://www.tadhamonfinance.com/",
+    github: "",
+    logo: "",
+    image: "/assets/projects/tadham.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 4, name: "PHP", path: "/assets/logos/php.svg" },
+    ],
+  },
+  {
+    id: 16,
+    title: "Summoner",
+    description: "Summoner — Where Autonomous Agents Power Economic Coordination.",
+    subDescription: [
+      "Summoner is a next-gen platform that lets AI agents build trust through performance, coordinate across silos, and engage in real economic transactions. It introduces a decentralized infrastructure for agent collaboration, reputation, and micropayments.",
+      "I built the landing page only, using Next.js, to showcase its mission, features, ecosystem, and real-world use cases. I cannot share the gitHub Url",
+    ],
+    href: "https://summoner.org/",
+    github: "https://github.com/orgs/Summoner-Network/repositories",
+    logo: "",
+    image: "/assets/projects/summoner.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 4, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 17,
+    title: "XIO.AI",
+    description: "XIO — One App to Trade Everything, Smarter and Faster",
+    subDescription: [
+      "XIO is a next-gen trading platform that connects users to 5,000+ DeFi and CEX assets through a single interface, powered by AI insights, customizable alerts, and self-custody wallets.",
+      "I collaborated with my friend in building the landing page using, focusing on speed, clarity, and responsiveness to match the product’s advanced fintech experience. I cannot share the gitHub Url because of NDA.",
+    ],
+    href: "https://www.xio.ai/",
+    github: "",
+    logo: "",
+    image: "/assets/projects/xio.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 4, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 18,
+    title: "Shellz🐢",
+    description: "Shellz🐢 — Your Crypto Spirit Animal",
+    subDescription: [
+      "Shellz blends NFTs, storytelling, and community into a Web3 universe powered by humor, culture, and a turtle-paced philosophy. From comics to tokens, it’s more than a meme—it’s a movement.",
+      "I built this for free for an upcoming web3 project on the uprising, soon to launch it's own presale for it's native token. The gitHub repo is private so you might not be able to access the repo.",
+    ],
+    href: "https://shellz.vercel.app/",
+    github: "https://github.com/fortuneCodeHub/Shellz",
+    logo: "",
+    image: "/assets/projects/shellz.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 4, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 19,
+    title: "ZOKE",
+    description: "ZOKE — Web3 Twitter Ambassador Website",
+    subDescription: [
+      "I built this website for free for Zoke, a crypto influencer and Web3 ambassador with over 35.5k followers on X. It showcases his impact, campaign history, and branding in a sleek, responsive layout designed to attract partnerships and amplify his reach.",
+    ],
+    href: "https://zoke-six.vercel.app/",
+    github: "https://github.com/fortuneCodeHub/Zoke",
+    logo: "",
+    image: "/assets/projects/zoke.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 4, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 20,
+    title: "Taskive",
+    description: "Taskive — Smarter Task Management for Teams",
+    subDescription: [
+      "Taskive helps teams plan, track, and collaborate with ease. From real-time updates to custom workflows, it's the all-in-one workspace for faster, clearer execution.",
+      "I built this landing page for an upcoming task management system my friend is building."
+    ],
+    href: "https://fortunecodehub.github.io/Taskive/",
+    github: "https://github.com/fortuneCodeHub/Taskive",
+    logo: "",
+    image: "/assets/projects/taskive.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 21,
+    title: "Safu-DeFi",
+    description: "SAFU DeFi — Web3 Community Growth & Engagement",
+    subDescription: [
+      "This is my community moderator portfolio, showcasing how I help Web3 projects grow through active engagement, moderation, and strategic support. From Telegram bots to NFT hype, I bring structure and energy to crypto communities."
+    ],
+    href: "https://fortunecodehub.github.io/Safu-DeFi/",
+    github: "https://github.com/fortuneCodeHub/Safu-DeFi",
+    logo: "",
+    image: "/assets/projects/safu-defi.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
+  {
+    id: 22,
+    title: "Barabilar",
+    description:
+      "This is an ecommerce store for cars that i built to simplify customer location to retailers or wholesalers products. So you can breakdown your search to the retailers products in your location and you can get to bid their product and get it at a good price. You can also post ads on the platform to get prescence of more customers. Build is still in progress, to be released soon...",
+    subDescription: [
+      "CRUD features with image upload and pagination.",
+      "Authentication & authorization using Laravel middleware.",
+      "Clean UI built with Tailwind CSS.",
+      "Geolocation to help get retailers and wholesalers near that location",
+    ],
+    href: "",
+    github: "https://github.com/fortuneCodeHub/Barabilar",
+    logo: "",
+    image: "/assets/projects/barabilar.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Bootstrap 5", path: "/assets/logos/bootstrap.svg" },
+      { id: 5, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 6, name: "PHP", path: "/assets/logos/php.svg" },
+      { id: 7, name: "Laravel", path: "/assets/logos/laravel-img.png" },
+    ],
+  },
+  {
+    id: 23,
+    title: "TradesByBarter",
+    description:
+      "This is an ecommerce store i built with my friends. This brings products to you based on your location. You can also place ads on this platform too.",
+    subDescription: [
+      "CRUD features with image upload and pagination.",
+      "Authentication & authorization using Laravel middleware.",
+      "Clean UI built with Tailwind CSS.",
+      "Geolocation to help get retailers and wholesalers near that location",
+    ],
+    href: "https://tradesbybarter.com/",
+    github: "",
+    logo: "",
+    image: "/assets/projects/tradesbybarter.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 4, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+      { id: 5, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 6, name: "PHP", path: "/assets/logos/php.svg" },
+      { id: 7, name: "Laravel", path: "/assets/logos/laravel-img.png" },
+    ],
+  },
+  
+];
+
+
+export const mySocials = [
+  {
+    name: "WhatsApp",
+    href: "",
+    icon: "/assets/socials/whatsApp.svg",
+  },
+  {
+    name: "Linkedin",
+    href: "https://www.linkedin.com/in/fortunecodehub/",
+    icon: "/assets/socials/linkedIn.svg",
+  },
+  {
+    name: "Twitter",
+    href: "https://x.com/general_dokafi",
+    icon: "/assets/socials/twitter.svg",
+  },
+  {
+    name: "Telegram",
+    href: "https://t.me/fortuneCodeHub12",
+    icon: "/assets/socials/telegram.svg",
+  },
+];
+
+export const experiences = [
+  {
+    "title": "Full Stack Web Developer",
+    "job": "Adrenaline Express & D&B & COs, Nigeria",
+    "date": "2021 – 2022",
+    "contents": [
+      "Implemented responsive design principles and ensured optimal user experience across devices.",
+      "Utilized Core PHP and PHP Laravel to build web applications, improving speed, efficiency, and code maintainability.",
+      "Designed and implemented database structures, optimizing data storage and retrieval.",
+      "Collaborated with clients to gather requirements and delivered tailored solutions.",
+      "Worked with cross-functional teams to meet project goals and deadlines.",
+      "Developed and maintained responsive web applications using HTML, CSS3, Bootstrap 5, and JavaScript."
+    ]
+  },
+  {
+    "title": "Independent Projects & Framework Development",
+    "job": "CodeGIGs, Frames & ProInvest",
+    "date": "2023 – 2024",
+    "contents": [
+      "Developed a job listing platform with functionalities for posting gigs, email verification, password reset, and user-based gig management.",
+      "Designed the system to scale for thousands of users and maintain performance.",
+      "Built an MVC framework similar to Laravel featuring routing, views, controllers, models, and a custom CLI tool named Skeleton.",
+      "Implemented pagination with filters, image editing, and session management utilities.",
+      "Created an investment platform with user and admin panels, supporting email verification and password management.",
+      "Back-End: PHP, Laravel, Custom MVC Framework (Frames).",
+      "Front-End: HTML, CSS, Bootstrap & JavaScript ES6+.",
+      "Database: MySQL.",
+      "Deployment: GitHub & Cloud Panel."
+    ]
+  },
+  {
+    "title": "JavaScript Full Stack Developer",
+    "job": "Vikmid & TadHamInvest",
+    "date": "2025 – Present",
+    "contents": [
+      "Developing a service marketplace for creators to monetize their services with a team of four developers.",
+      "Built the NestJS API and contributed to the UI using Next.js.",
+      "Developed a full-stack investment brokerage platform.",
+      "Handled design and contributed to the Node.js backend.",
+      "Front-End: Next.js, React.js, Tailwind CSS, TypeScript.",
+      "Back-End: NestJS, Node.js, TypeScript."
+    ]
+  }
+];
+
+
+export const reviews = [
+  {
+    name: "Jack",
+    username: "@jack",
+    body: "I've never seen anything like this before. It's amazing. I love it.",
+    img: "https://robohash.org/jack",
+  },
+  {
+    name: "Jill",
+    username: "@jill",
+    body: "I don't know what to say. I'm speechless. This is amazing.",
+    img: "https://robohash.org/jill",
+  },
+  {
+    name: "John",
+    username: "@john",
+    body: "I'm at a loss for words. This is amazing. I love it.",
+    img: "https://robohash.org/john",
+  },
+  {
+    name: "Alice",
+    username: "@alice",
+    body: "This is hands down the best thing I've experienced. Highly recommend!",
+    img: "https://robohash.org/alice",
+  },
+  {
+    name: "Bob",
+    username: "@bob",
+    body: "Incredible work! The attention to detail is phenomenal.",
+    img: "https://robohash.org/bob",
+  },
+  {
+    name: "Charlie",
+    username: "@charlie",
+    body: "This exceeded all my expectations. Absolutely stunning!",
+    img: "https://robohash.org/charlie",
+  },
+  {
+    name: "Dave",
+    username: "@dave",
+    body: "Simply breathtaking. The best decision I've made in a while.",
+    img: "https://robohash.org/dave",
+  },
+  {
+    name: "Eve",
+    username: "@eve",
+    body: "So glad I found this. It has changed the game for me.",
+    img: "https://robohash.org/eve",
+  },
+  {
+    name: "ZOKE",
+    username: "@z0ke",
+    body: "Thank you so much my guy. It's really harrddd",
+    img: "/assets/logos/zoke.jpg",
+  },
+];
