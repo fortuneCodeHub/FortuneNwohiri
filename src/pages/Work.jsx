@@ -1,7 +1,7 @@
 // src/pages/Works.jsx
 import React from "react";
 import AllProjects from "../sections/AllProjects";
-import Navbar from "../sections/navbar";
+import Navbar from "../sections/Navbar";
 import Footer from "../sections/Footer";
 
 const Works = () => {
