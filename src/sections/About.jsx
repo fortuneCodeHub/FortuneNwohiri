@@ -42,7 +42,7 @@ const About = () => {
 
           {/* Grid 1.3: Availability Box */}
           <a href="https://fortunecodehub.github.io/Safu-DeFi/" target="_blank" className="col-span-2 text-white p-4 rounded-lg hidden md:flex justify-between items-center bg-cover bg-center"
-              style={{ backgroundImage: "url('/assets/doka.jpg')"}} >
+              style={{ backgroundImage: "url('/assets/doka.png')"}} >
             <div>
               {/* Optional overlay or text */}
               <div className="lg:mb-[-90px]">
