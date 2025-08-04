@@ -728,21 +728,37 @@ export const mySocials = [
     name: "WhatsApp",
     href: "",
     icon: "/assets/socials/whatsApp.svg",
+    bgColor: "",
   },
   {
     name: "Linkedin",
     href: "https://www.linkedin.com/in/fortunecodehub/",
     icon: "/assets/socials/linkedIn.svg",
+    bgColor: "",
   },
   {
     name: "Twitter",
     href: "https://x.com/general_dokafi",
     icon: "/assets/socials/twitter.svg",
+    bgColor: "",
   },
   {
     name: "Telegram",
     href: "https://t.me/fortuneCodeHub12",
     icon: "/assets/socials/telegram.svg",
+    bgColor: "",
+  },
+  {
+    name: "GitHub",
+    href: "https://github.com/fortuneCodeHub",
+    icon: "/assets/socials/github.svg",
+    bgColor: "bg-white",
+  },
+  {
+    name: "StackOverFLow",
+    href: "https://stackoverflow.com/users/31206576/fortune-nwohiri",
+    icon: "/assets/socials/stackOverFlow.svg",
+    bgColor: "",
   },
 ];
 
