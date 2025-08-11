@@ -169,7 +169,7 @@ const About = () => {
         {/* Grid 6: Fortune's Image */}
         <div
           className="text-white p-4 rounded-lg flex justify-between items-center bg-cover bg-top grid-6 md:hidden h-[40vh]"
-          style={{ backgroundImage: "url('/assets/doka.png')" }}
+          style={{ backgroundImage: "url('/assets/fortunenwohiri.jpg')" }}
         >
           
         </div>
@@ -179,7 +179,7 @@ const About = () => {
           href="https://fortunecodehub.github.io/Safu-DeFi/" 
           target="_blank" 
           className="md:hidden text-white p-4 rounded-lg flex justify-between items-center bg-cover bg-center grid-7 h-[40vh]"
-          style={{ backgroundImage: "url('/assets/doka.jpg')"}} 
+          style={{ backgroundImage: "url('/assets/doka.png')" }} 
         > 
           <div>
             {/* Optional overlay or text */}
