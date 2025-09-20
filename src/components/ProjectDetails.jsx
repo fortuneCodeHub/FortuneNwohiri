@@ -29,7 +29,7 @@ const ProjectDetails = ({
           {subDescription.map((subDesc, index) => (
             <p className="mb-3 font-normal text-neutral-400">{subDesc}</p>
           ))}
-          <div className="flex items-center justify-between mt-4">
+          <div className="md:flex items-center justify-between mt-4">
             <div className="flex gap-3">
               {tags.map((tag) => (
                 <img
@@ -40,20 +40,20 @@ const ProjectDetails = ({
                 />
               ))}
             </div>
-              <div className="flex items-center space-x-2">
-                {github && (
-                  <a href={github} target="_blank" className="inline-flex items-center gap-1 font-medium cursor-pointer hover-animation">
-                    GitHub
-                  <img src="assets/arrow-up.svg" className="size-4" href={github} />
+            <div className="flex items-center space-x-2 md:mt-0 mt-3">
+              {github && (
+                <a href={github} target="_blank" className="inline-flex items-center gap-1 font-medium cursor-pointer hover-animation">
+                  GitHub
+                <img src="assets/arrow-up.svg" className="size-4" href={github} />
+              </a>
+              )}
+              {href && (  
+                <a href={href} target="_blank" className="inline-flex items-center gap-1 font-medium cursor-pointer hover-animation">
+                  View Project
+                  <img src="assets/arrow-up.svg" className="size-4" href={href} />
                 </a>
-                )}
-                {href && (  
-                  <a href={href} target="_blank" className="inline-flex items-center gap-1 font-medium cursor-pointer hover-animation">
-                    View Project
-                    <img src="assets/arrow-up.svg" className="size-4" href={href} />
-                  </a>
-                )}
-              </div>
+              )}
+            </div>
           </div>
         </div>
       </motion.div>
