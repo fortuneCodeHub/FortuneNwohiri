@@ -21,6 +21,25 @@ export const myProjects = [
   },
   {
     id: 2,
+    title: "PIGGA – The Coolest Pig on Solana",
+    description: "$PIGGA ain’t just a coin. It’s a lifestyle.",
+    subDescription: [
+      "Pigga was tired of farm life. Peppa got all the fame. So he dipped to the streets, copped some kicks, and now he runs Solana.",
+      "I built the landing page for Pigga using Next.js, Tailwind CSS, and GSAP animations — focusing on a bold, graffiti-inspired aesthetic that matches the fun, streetwise brand of this meme token."
+    ],
+    href: "https://piggathepig.vercel.app/",
+    github: "",
+    logo: "",
+    image: "/assets/images/piggathepig.png",
+    tags: [
+      { id: 1, name: "React", path: "/assets/logos/react.svg" },
+      { id: 2, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 3, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+      { id: 4, name: "GSAP", path: "/assets/logos/gsap.svg" },
+    ],
+  },
+  {
+    id: 3,
     title: "LocIq",
     description: "LocIq is an AI-powered real estate marketing platform that helps property sellers generate high-converting Google Ads campaigns for individual listings—automatically and at scale. I built this with a team of frontend and backend devs, i worked on both frontend and backend, signed an NDA so i cannot share the github url.",
     subDescription: [
@@ -40,7 +59,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     title: "Vikmid",
     description: "This is a tool for popular influencers and content creators to sell their products and also sell their courses, it's just like selar.com but this is different because we plan on adding a lottery system where influencers can do giveaway to their fans. I cannot share the github url, also signed an NDA.",
     subDescription: [
@@ -61,7 +80,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     title: "TadhamOnFinance",
     description: "This is an investment platform where you can invest and get your profits after your investment timeframe is completed. I cannot also share the github url.",
     subDescription: [
@@ -79,7 +98,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 5,
+    id: 6,
     title: "Summoner",
     description: "Summoner — Where Autonomous Agents Power Economic Coordination.",
     subDescription: [
@@ -99,7 +118,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 6,
+    id: 7,
     title: "FortuneCodeHub Second folio",
     description: "My second portfolio site showcasing earlier works.",
     subDescription: [
@@ -119,7 +138,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 7,
+    id: 8,
     title: "Shellz🐢",
     description: "Shellz🐢 — Your Crypto Spirit Animal",
     subDescription: [
@@ -139,7 +158,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 8,
+    id: 9,
     title: "ZOKE",
     description: "ZOKE — Web3 Twitter Ambassador Website",
     subDescription: [
@@ -158,7 +177,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 9,
+    id: 10,
     title: "Taskive",
     description: "Taskive — Smarter Task Management for Teams",
     subDescription: [
@@ -177,7 +196,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 10,
+    id: 11,
     title: "Safu-DeFi",
     description: "SAFU DeFi — Web3 Community Growth & Engagement",
     subDescription: [
@@ -195,7 +214,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 11,
+    id: 12,
     title: "Barabilar",
     description:
       "This is an ecommerce store for cars that i built to simplify customer location to retailers or wholesalers products. So you can breakdown your search to the retailers products in your location and you can get to bid their product and get it at a good price. You can also post ads on the platform to get prescence of more customers. Build is still in progress, to be released soon...",
@@ -219,7 +238,7 @@ export const myProjects = [
     ],
   },
   {
-    id: 12,
+    id: 13,
     title: "TradesByBarter",
     description:
       "This is an ecommerce store i built with my friends. This brings products to you based on your location. You can also place ads on this platform too.",
@@ -242,26 +261,26 @@ export const myProjects = [
       { id: 7, name: "Laravel", path: "/assets/logos/laravel-img.png" },
     ],
   },
-  // {
-  //   id: 13,
-  //   title: "XIO.AI",
-  //   description: "XIO — One App to Trade Everything, Smarter and Faster",
-  //   subDescription: [
-  //     "XIO is a next-gen trading platform that connects users to 5,000+ DeFi and CEX assets through a single interface, powered by AI insights, customizable alerts, and self-custody wallets.",
-  //     "I collaborated with my friend in building the landing page using, focusing on speed, clarity, and responsiveness to match the product’s advanced fintech experience. I cannot share the gitHub Url because of NDA.",
-  //   ],
-  //   href: "https://www.xio.ai/",
-  //   github: "",
-  //   logo: "",
-  //   image: "/assets/projects/xio.png",
-  //   tags: [
-  //     { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
-  //     { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
-  //     { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
-  //     { id: 4, name: "Next Js", path: "/assets/logos/nextjs.svg" },
-  //     { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
-  //   ],
-  // },
+  {
+    id: 14,
+    title: "XIO.AI",
+    description: "XIO — One App to Trade Everything, Smarter and Faster",
+    subDescription: [
+      "XIO is a next-gen trading platform that connects users to 5,000+ DeFi and CEX assets through a single interface, powered by AI insights, customizable alerts, and self-custody wallets.",
+      "I collaborated with my friend in building the landing page using, focusing on speed, clarity, and responsiveness to match the product’s advanced fintech experience. I cannot share the gitHub Url because of NDA.",
+    ],
+    href: "https://www.xio.ai/",
+    github: "",
+    logo: "",
+    image: "/assets/projects/xio.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 4, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
 ];
 
 export const moreProjects = [
@@ -615,26 +634,26 @@ export const moreProjects = [
       { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
     ],
   },
-  // {
-  //   id: 17,
-  //   title: "XIO.AI",
-  //   description: "XIO — One App to Trade Everything, Smarter and Faster",
-  //   subDescription: [
-  //     "XIO is a next-gen trading platform that connects users to 5,000+ DeFi and CEX assets through a single interface, powered by AI insights, customizable alerts, and self-custody wallets.",
-  //     "I collaborated with my friend in building the landing page using, focusing on speed, clarity, and responsiveness to match the product’s advanced fintech experience. I cannot share the gitHub Url because of NDA.",
-  //   ],
-  //   href: "https://www.xio.ai/",
-  //   github: "",
-  //   logo: "",
-  //   image: "/assets/projects/xio.png",
-  //   tags: [
-  //     { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
-  //     { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
-  //     { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
-  //     { id: 4, name: "Next Js", path: "/assets/logos/nextjs.svg" },
-  //     { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
-  //   ],
-  // },
+  {
+    id: 17,
+    title: "XIO.AI",
+    description: "XIO — One App to Trade Everything, Smarter and Faster",
+    subDescription: [
+      "XIO is a next-gen trading platform that connects users to 5,000+ DeFi and CEX assets through a single interface, powered by AI insights, customizable alerts, and self-custody wallets.",
+      "I collaborated with my friend in building the landing page using, focusing on speed, clarity, and responsiveness to match the product’s advanced fintech experience. I cannot share the gitHub Url because of NDA.",
+    ],
+    href: "https://www.xio.ai/",
+    github: "",
+    logo: "",
+    image: "/assets/projects/xio.png",
+    tags: [
+      { id: 1, name: "HTML", path: "/assets/logos/html5.svg" },
+      { id: 2, name: "CSS", path: "/assets/logos/css3.svg" },
+      { id: 3, name: "Javascript", path: "/assets/logos/javascript.svg" },
+      { id: 4, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 5, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+    ],
+  },
   {
     id: 18,
     title: "Shellz🐢",
@@ -759,6 +778,25 @@ export const moreProjects = [
       { id: 7, name: "Laravel", path: "/assets/logos/laravel-img.png" },
     ],
   },
+  {
+    id: 24,
+    title: "PIGGA – The Coolest Pig on Solana",
+    description: "$PIGGA ain’t just a coin. It’s a lifestyle.",
+    subDescription: [
+      "Pigga was tired of farm life. Peppa got all the fame. So he dipped to the streets, copped some kicks, and now he runs Solana.",
+      "I built the landing page for Pigga using Next.js, Tailwind CSS, and GSAP animations — focusing on a bold, graffiti-inspired aesthetic that matches the fun, streetwise brand of this meme token."
+    ],
+    href: "https://piggathepig.vercel.app/",
+    github: "",
+    logo: "",
+    image: "/assets/images/piggathepig.png",
+    tags: [
+      { id: 1, name: "React", path: "/assets/logos/react.svg" },
+      { id: 2, name: "Next Js", path: "/assets/logos/nextjs.svg" },
+      { id: 3, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+      { id: 4, name: "GSAP", path: "/assets/logos/gsap.svg" },
+    ],
+  }
   
 ];
 
