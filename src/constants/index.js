@@ -30,7 +30,7 @@ export const myProjects = [
     href: "https://piggathepig.vercel.app/",
     github: "",
     logo: "",
-    image: "/assets/images/piggathepig.png",
+    image: "/assets/projects/piggathepig.png",
     tags: [
       { id: 1, name: "React", path: "/assets/logos/react.svg" },
       { id: 2, name: "Next Js", path: "/assets/logos/nextjs.svg" },
@@ -789,7 +789,7 @@ export const moreProjects = [
     href: "https://piggathepig.vercel.app/",
     github: "",
     logo: "",
-    image: "/assets/images/piggathepig.png",
+    image: "/assets/projects/piggathepig.png",
     tags: [
       { id: 1, name: "React", path: "/assets/logos/react.svg" },
       { id: 2, name: "Next Js", path: "/assets/logos/nextjs.svg" },
