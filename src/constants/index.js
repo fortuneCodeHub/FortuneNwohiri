@@ -1,5 +1,50 @@
 export const myProjects = [
   {
+    id: 16,
+    title: "🎟️ GatePass",
+    description: "🎟️ GatePass — Smart Event Ticketing for Africa",
+    subDescription: [
+      "GatePass is an all-in-one event ticketing and management platform built to help organizers create, promote, and manage events with ease.",
+      "The system allows event creators to design event pages, sell tickets, and manage attendees through secure, real-time dashboards — complete with QR code verification and automated email confirmations.",
+      "Built for reliability and scalability, GatePass supports online payments, digital ticket generation, offline check-ins, and detailed analytics to track sales and attendance performance.",
+      "From ticket sales to gate management, GatePass powers thousands of events across Nigeria, making event organization faster, simpler, and more professional than ever.",
+      "It has flutterwave payment system so you can try fake payments for now and it would send you tickets to your email"
+    ],
+    href: "https://gatepass.ng/",
+    github: "",
+    logo: "",
+    image: "/assets/projects/gatepass.png",
+    tags: [
+      { id: 1, name: "Laravel", path: "/assets/logos/laravel-img.png" },
+      { id: 2, name: "Livewire", path: "" },
+      { id: 3, name: "MySQL", path: "/assets/logos/mysql.svg" },
+      { id: 4, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+      { id: 5, name: "JavaScript", path: "/assets/logos/javascript.svg" },
+    ],
+  },  
+  {
+    id: 15,
+    title: "⚡YieldWitness",
+    description: "⚡ YieldWitness — The Future of Intelligent Blogging",
+    subDescription: [
+      "YieldWitness is a modern blog management platform built for me to monetize through Ads.",
+      "The platform allows admins to create, edit, and publish articles using a custom-built post builder. It is complete with dynamic content blocks, real-time image uploads, and category tagging.",
+      "Built with Next.js and MongoDB, YieldWitness features secure authentication, admin access control, and image optimization for better performance. It also includes automated thumbnail handling, form validation, and a live post status system.",
+      "From content creation to deployment, YieldWitness redefines how digital publications are managed and maintained — fast, secure, and creator-friendly.",
+    ],
+    href: "https://yieldwitness.vercel.app/",
+    github: "https://github.com/fortuneCodeHub/YieldWitness",
+    logo: "",
+    image: "/assets/projects/yieldwitness.png",
+    tags: [
+      { id: 1, name: "Next.js", path: "/assets/logos/nextjs.svg" },
+      { id: 3, name: "MongoDB", path: "/assets/logos/mongodb-img.png" },
+      { id: 4, name: "Tailwind CSS", path: "/assets/logos/tailwindcss.svg" },
+      { id: 5, name: "JavaScript", path: "/assets/logos/javascript.svg" },
+    ],
+  },
+  
+  {
     id: 1,
     title: "✨AIRewriter",
     description: "✨ AIRewriter — Write Better Emails, Effortlessly with AI",
