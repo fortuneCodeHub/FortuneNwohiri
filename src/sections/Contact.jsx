@@ -40,7 +40,7 @@ const Contact = () => {
           message: formData.message,
           reply_to: formData.email,
           to_email: "fortunenwohiri@gmail.com",
-          email: formData.email, // Add this if your template uses it
+          email: "fortunenwohiri@gmail.com", // Add this if your template uses it
         },
         "TjJn3m2vAe1BwCtG5" // ✅ Your public key
       );
