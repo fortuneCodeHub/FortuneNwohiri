@@ -90,7 +90,7 @@ export const myProjects = [
     subDescription: [
       "With LocIq, property managers and real estate agents can instantly turn their property data into ready-to-run ad campaigns, complete with tailored headlines, keywords, and landing pages. No manual ad setup, no guesswork—just intelligent automation that drives real estate visibility and sales.",
     ],
-    href: "https://www.lociq.nl/en",
+    href: "https://lociq.io/",
     github: "",
     logo: "",
     image: "/assets/projects/lociq.png",
